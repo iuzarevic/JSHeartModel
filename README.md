@@ -6,4 +6,5 @@ How to run application:
 2. Chrome: You need to copy files from repository to local web server and run it from there.
 
 Screenshots:
-![Screenshot](/screenshots//screenshot.jpg?raw=true "Screenshot")
+
+![Screenshot](../master/screenshots/screenshot.JPG)
